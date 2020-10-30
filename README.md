@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+
 ![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
 
 # 🤖 EvoBot (Discord Music Bot)
@@ -11,6 +13,10 @@
 3. Node.js v12.0.0 or newer
 
 ## 🚀 Getting Started
+
+If deploying to Heroku make sure to create config variables
+
+![heroku](https://i.imgur.com/iaoUePg.png?1)
 
 ```
 git clone https://github.com/eritislami/evobot.git
